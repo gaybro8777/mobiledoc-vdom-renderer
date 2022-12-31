@@ -44,7 +44,7 @@
     "createElement"
   ],
   "devDependencies": {
-    "ava": "^0.25.0",
+    "ava": "^5.1.0",
     "chokidar-cli": "^1.2.1",
     "concurrently": "^3.6.1",
     "eslint": "^5.6.0",
